@@ -78,7 +78,7 @@ Automatically provides:
 
 
 smart-data-visualiser/
-│
+│ 
 ├── app.py
 ├── utils/
 │ ├── data_loader.py
