@@ -76,17 +76,16 @@ Automatically provides:
 
 ## 📂 Project Structure
 
-
+```
 smart-data-visualiser/
-│ 
 ├── app.py
 ├── utils/
-│ ├── data_loader.py
-│ ├── graph_generator.py
-│ ├── insights.py
-│
+│   ├── data_loader.py
+│   ├── graph_generator.py
+│   ├── insights.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
