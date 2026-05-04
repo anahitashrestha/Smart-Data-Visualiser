@@ -94,47 +94,87 @@ smart-data-visualiser/
 ## ▶️ Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/anahitashrestha/Smart-Data-Visualiser.git
 cd Smart-Data-Visualiser
-2. Install Dependencies
+```
+
+### 2. Install Dependencies
+
+```bash
 pip install -r requirements.txt
-3. Run the Application
+```
+
+### 3. Run the Application
+
+```bash
 streamlit run app.py
-4. Open in Browser
+```
 
+### 4. Open in Browser
+
+```text
 http://localhost:8501
+```
 
-📸 Demo
+---
+
+## 📸 Demo
 
 ### Dashboard View
+
 ![Dashboard](screenshot1.png)
 
 ### Graph & Insights
+
 ![Graph](screenshot2.png)
 
- Example Use Cases
-Employee salary analysis
-E-commerce sales insights
-Student performance evaluation
-Time-series trend analysis
-Correlation analysis between variables
+---
 
- Limitations
-Supports only CSV files
-Insights are rule-based (not ML-driven)
-Extremely large datasets may affect performance
+##  Example Use Cases
 
- Future Improvements
-Excel (.xlsx) support
-Machine learning-based insights
-Time-series detection
-Outlier detection
-Cloud deployment (Streamlit / AWS)
+- Employee salary analysis  
+- E-commerce sales insights  
+- Student performance evaluation  
+- Time-series trend analysis  
+- Correlation analysis between variables  
 
+---
 
- Author
-Anahita Shrestha
+##  Limitations
 
-📌 Note
+- Supports only CSV files  
+- Insights are rule-based (not ML-driven)  
+- Extremely large datasets may affect performance  
+
+---
+
+##  Future Improvements
+
+- Excel (.xlsx) support  
+- Machine learning-based insights  
+- Time-series detection  
+- Outlier detection  
+- Cloud deployment (Streamlit / AWS)  
+
+---
+
+##  What Makes This Project Stand Out
+
+- Not just plotting → decision-driven visualization  
+- Handles real-world datasets intelligently  
+- Prevents misleading visualizations (like large pie charts)  
+- Clean separation between visualization and analysis  
+
+---
+
+##  Author
+
+Anahita Shrestha  
+
+---
+
+## 📌 Note
+
 This project was developed as part of coursework in Data Science, focusing on practical implementation of intelligent data visualization techniques.
